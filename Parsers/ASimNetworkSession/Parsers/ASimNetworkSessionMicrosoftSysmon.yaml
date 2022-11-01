@@ -1,9 +1,9 @@
 Parser:
-  Title: Network Session Event ASIM parser for Sysmon
+  Title: Network Session Event ASIM parser for Sysmon (Event 3)
   Version: '0.0.1'
-  LastUpdated: Oct 21, 2022
+  LastUpdated: Nov 11, 2022
 Product:
-  Name: Sysmon
+  Name: Windows Sysmon
 Normalization:
   Schema: NetworkSession
   Version: '0.2.4'
