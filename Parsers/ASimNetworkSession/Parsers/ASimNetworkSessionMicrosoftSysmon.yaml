@@ -156,6 +156,6 @@ union InboundNetworkEvents,OutboundNetworkEvents
       RenderedDescription,
       Role,
       Source*,
-      _ResourceId,
+      _ResourceId
     };
     parser (disabled=disabled)
